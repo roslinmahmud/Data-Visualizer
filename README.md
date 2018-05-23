@@ -28,7 +28,7 @@ python app.py
 Local server: http://127.0.0.1:8050/
 ```
 
-Start your visualization with given CSV files
+Start your visualization with given CSV files.
 For detailed explanation, check out [dash](https://plot.ly/products/dash/)
 
 [Python]: <https://www.python.org>
