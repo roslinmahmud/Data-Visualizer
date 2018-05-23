@@ -8,7 +8,6 @@ import pandas as pd
 import io
 import base64
 
-
 app = dash.Dash()
 
 app.scripts.config.serve_locally = True
