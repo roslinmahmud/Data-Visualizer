@@ -32,4 +32,4 @@ For detailed explanation, check out [dash](https://plot.ly/products/dash/)
 
 [Python]: <https://www.python.org>
 [Dash]: <https://plot.ly/products/dash/>
-[Flash]: <http://flask.pocoo.org>
+[Flask]: <http://flask.pocoo.org>
