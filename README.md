@@ -3,7 +3,7 @@
 ## Tools used
 
 * [Python] - The Powerful High Level Language
-* [Chart.js] - flexible JavaScript charting for designers & developers
+* [ChartJS] - flexible JavaScript charting for designers & developers
 * [Flask] - Micro Web Framework Written in Python
 
 ## Setup
