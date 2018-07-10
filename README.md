@@ -23,5 +23,5 @@ Local server: http://127.0.0.1:5000/
 Start your visualization with given CSV files.
 
 [Python]: <https://www.python.org>
-[ChartJS]: <http://www.chartjs.org//>
+[ChartJS]: <http://www.chartjs.org/>
 [Flask]: <http://flask.pocoo.org>
