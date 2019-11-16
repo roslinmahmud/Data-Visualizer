@@ -19,7 +19,7 @@ python app.py
 
 Local server: http://127.0.0.1:5000/
 ```
-
+![Data visualization](data_visualization.png)
 Start your visualization with given CSV files.
 
 [Python]: <https://www.python.org>
