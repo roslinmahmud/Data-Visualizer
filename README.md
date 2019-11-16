@@ -1,4 +1,4 @@
-# Data Visualization Tool 
+# Data Visualizer 
 
 ## Tools used
 
