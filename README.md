@@ -18,9 +18,13 @@ pip install pandas
 python app.py
 
 Local server: http://127.0.0.1:5000/
-```
-![Data visualization](data_visualization.png)
+
 Start your visualization with given CSV files.
+```
+
+## Screenshot
+
+![Data visualization](data_visualization.png)
 
 [Python]: <https://www.python.org>
 [ChartJS]: <http://www.chartjs.org/>
